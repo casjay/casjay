@@ -16,7 +16,7 @@ Other usernames include chmweb and casjaysdev.
 I try to sign every commit so it can be verified  
 My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and 
 [ssh keys](https://github.com/casjay/public/raw/master/ssh_id.pub) and 
-[keybase](keybase.io/casjay)  
+[keybase](https://keybase.io/casjay)  
   
 # <strong> where I am online </strong>  
   
