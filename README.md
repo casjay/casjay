@@ -54,7 +54,8 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 [Twitter](https://twitter.com/casjay) | 
 [Yelp](https://www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ)  
   
-[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay) 
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay?ref=badge_shield)
+
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/casjaysdev)  
 
 [![casjay's github stats](https://gh-readme-stats.casjay.now.sh/api?username=casjay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/casjay)  
@@ -62,3 +63,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 </div>  
 
 -------------------------  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay?ref=badge_large)
