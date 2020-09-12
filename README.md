@@ -60,6 +60,79 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 [![casjay's github stats](https://gh-readme-stats.casjay.now.sh/api/?theme=dracula&username=casjay&show_icons=true)](https://github.com/casjay)  
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 31,728 Contributions in the Year 2020
+ > 
+> 📦 840.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
+🌆 Daytime    86 commits     ██████░░░░░░░░░░░░░░░░░░░   23.96% 
+🌃 Evening    137 commits    █████████░░░░░░░░░░░░░░░░   38.16% 
+🌙 Night      98 commits     ██████░░░░░░░░░░░░░░░░░░░   27.3%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+Tuesday      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Wednesday    151 commits    ██████████░░░░░░░░░░░░░░░   42.06% 
+Thursday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
+Friday       67 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
+Saturday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      17 repos            █████████████░░░░░░░░░░░░   53.12% 
+Shell                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Perl                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/casjay/casjay/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </div>  
