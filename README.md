@@ -58,6 +58,9 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/casjaysdev)  
 
 [![casjay's github stats](https://gh-readme-stats.casjay.now.sh/api/?theme=dracula&username=casjay&show_icons=true)](https://github.com/casjay)  
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>  
 
