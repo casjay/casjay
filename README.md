@@ -133,7 +133,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/casjay/casjay/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/casjay/casjay/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
