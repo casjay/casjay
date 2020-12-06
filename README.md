@@ -73,9 +73,9 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories
+> 📜 20 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 3 Private Repositories  
 
 **I'm a Night 🦉** 
 
