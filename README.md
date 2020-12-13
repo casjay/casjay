@@ -24,7 +24,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 [jason at casjay dot net](mailto:jason@casjay.net)  
 
 ### <strong> Personal links: </strong>  
-[malaks-us.github.io/jason](http://malaks-us.github.io/jason)  
+[casjay.info](http://casjay.info)  
   
 ### <strong> Public: </strong>  
 [About.Me](https://about.me/casjay) | 
