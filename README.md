@@ -67,7 +67,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 
 **🐱 My Github Data** 
 
-> 🏆 69 Contributions in the Year 2021
+> 🏆 79 Contributions in the Year 2021
  > 
 > 📦 848.6 kB Used in Github's Storage 
  > 
