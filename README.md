@@ -67,7 +67,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 
 **🐱 My Github Data** 
 
-> 🏆 707 Contributions in the Year 2021
+> 🏆 718 Contributions in the Year 2021
  > 
 > 📦 848.6 kB Used in Github's Storage 
  > 
@@ -89,8 +89,8 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       163 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
-Tuesday      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+Monday       160 commits    █████░░░░░░░░░░░░░░░░░░░░   23.39% 
+Tuesday      121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
 Wednesday    156 commits    █████░░░░░░░░░░░░░░░░░░░░   22.81% 
 Thursday     19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
 Friday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
