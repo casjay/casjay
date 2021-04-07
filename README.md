@@ -67,7 +67,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 
 **🐱 My Github Data** 
 
-> 🏆 21,448 Contributions in the Year 2021
+> 🏆 29,471 Contributions in the Year 2021
  > 
 > 📦 847.1 kB Used in Github's Storage 
  > 
@@ -80,10 +80,10 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    154 commits    █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+🌞 Morning    160 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3% 
 🌆 Daytime    183 commits    ██████░░░░░░░░░░░░░░░░░░░   24.37% 
 🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   27.7% 
-🌙 Night      206 commits    ██████░░░░░░░░░░░░░░░░░░░   27.43%
+🌙 Night      200 commits    ██████░░░░░░░░░░░░░░░░░░░   26.63%
 
 ```
 📅 **I'm Most Productive on Friday** 
