@@ -106,16 +106,16 @@ Sunday       62 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     6 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      6 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
