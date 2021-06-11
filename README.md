@@ -136,7 +136,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2021
+ Last Updated on 11/06/2021
 <!--END_SECTION:waka-->
   
 ---
