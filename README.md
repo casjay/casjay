@@ -63,11 +63,11 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
   
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 33,655 Contributions in the Year 2021
+> 🏆 33,657 Contributions in the Year 2021
  > 
 > 📦 855.0 kB Used in Github's Storage 
  > 
