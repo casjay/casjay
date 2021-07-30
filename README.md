@@ -67,7 +67,7 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 
 **🐱 My Github Data** 
 
-> 🏆 34,148 Contributions in the Year 2021
+> 🏆 34,190 Contributions in the Year 2021
  > 
 > 📦 855.0 kB Used in Github's Storage 
  > 
@@ -89,10 +89,10 @@ My [public gpg](https://github.com/casjay/public/raw/master/jason.asc) and
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       403 commits    ████████░░░░░░░░░░░░░░░░░   31.53% 
+Monday       391 commits    ███████░░░░░░░░░░░░░░░░░░   30.59% 
 Tuesday      224 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
 Wednesday    191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Thursday     139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Thursday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
 Friday       171 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
 Saturday     77 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
 Sunday       73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
@@ -145,7 +145,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2021
+ Last Updated on 30/07/2021
 <!--END_SECTION:waka-->
   
 ---
