@@ -54,10 +54,10 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [Twitter](https://twitter.com/casjay) | 
 [Yelp](https://www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ)  
   
-[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay?ref=badge_shield)
-
-[![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/casjaysdev)  
-  
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay) 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay?ref=badge_shield) 
+[![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/casjaysdev) 
+    
 ---
 ### <strong> Organizations: </strong>  
 [ ![@CasjaysDev](https://avatars.githubusercontent.com/u/20425123?s=64&v=4) ](https://github.com/CasjaysDev) 
@@ -96,6 +96,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 <!--START_SECTION:waka-->
+  
+  
 <!--END_SECTION:waka-->  
 ---
 
