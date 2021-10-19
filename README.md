@@ -96,8 +96,80 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 <!--START_SECTION:waka-->
-  
-  
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 33,825 Contributions in the Year 2021
+ > 
+> 📦 869.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    197 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+🌆 Daytime    601 commits    ████████░░░░░░░░░░░░░░░░░   34.23% 
+🌃 Evening    490 commits    ███████░░░░░░░░░░░░░░░░░░   27.9% 
+🌙 Night      468 commits    ██████░░░░░░░░░░░░░░░░░░░   26.65%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       425 commits    ██████░░░░░░░░░░░░░░░░░░░   24.2% 
+Tuesday      240 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
+Wednesday    133 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
+Thursday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Friday       170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Saturday     271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+Sunday       313 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.82%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      17 repos            █████████████░░░░░░░░░░░░   51.52% 
+Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+Perl                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
+
+
+ Last Updated on 19/10/2021
 <!--END_SECTION:waka-->  
 ---
 
