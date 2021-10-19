@@ -60,15 +60,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 ### <strong> Organizations: </strong>  
-[ ![@CasjaysDev](https://avatars.githubusercontent.com/u/20425123?s=64&v=4) ](https://github.com//CasjaysDev) 
-[ ![@apmpproject](https://avatars.githubusercontent.com/u/43100239?s=64&v=4) ](https://github.com/https://github.com//apmpproject) 
-[ ![@casjay-themes](https://avatars.githubusercontent.com/u/43266386?s=64&v=4) ](https://github.com//casjay-themes) 
-[ ![@casjaysdev-docker](https://avatars.githubusercontent.com/u/43872460?s=64&v=4) ](https://github.com//casjaysdev-docker) 
-[ ![@casjaysdev-sites](https://avatars.githubusercontent.com/u/46037693?s=64&v=4) ](https://github.com//casjaysdev-sites) 
-[ ![@casjay-dotfiles](https://avatars.githubusercontent.com/u/46251966?s=64&v=4) ](https://github.com//casjay-dotfiles) 
-[ ![@onhealth](https://avatars.githubusercontent.com/u/51725165?s=64&v=4) ](https://github.com//onhealth) 
-[ ![@malaks-us](https://avatars.githubusercontent.com/u/52330029?s=64&v=4) ](https://github.com//malaks-us) 
-[ ![@casjay-systems](https://avatars.githubusercontent.com/u/57676374?s=64&v=4) ](https://github.com//casjay-systems) 
+[ ![@CasjaysDev](https://avatars.githubusercontent.com/u/20425123?s=64&v=4) ](https://github.com/CasjaysDev) 
+[ ![@apmpproject](https://avatars.githubusercontent.com/u/43100239?s=64&v=4) ](https://github.com/apmpproject) 
+[ ![@casjay-themes](https://avatars.githubusercontent.com/u/43266386?s=64&v=4) ](https://github.com/casjay-themes) 
+[ ![@casjaysdev-docker](https://avatars.githubusercontent.com/u/43872460?s=64&v=4) ](https://github.com/casjaysdev-docker) 
+[ ![@casjaysdev-sites](https://avatars.githubusercontent.com/u/46037693?s=64&v=4) ](https://github.com/casjaysdev-sites) 
+[ ![@casjay-dotfiles](https://avatars.githubusercontent.com/u/46251966?s=64&v=4) ](https://github.com/casjay-dotfiles) 
+[ ![@onhealth](https://avatars.githubusercontent.com/u/51725165?s=64&v=4) ](https://github.com/onhealth) 
+[ ![@malaks-us](https://avatars.githubusercontent.com/u/52330029?s=64&v=4) ](https://github.com/malaks-us) 
+[ ![@casjay-systems](https://avatars.githubusercontent.com/u/57676374?s=64&v=4) ](https://github.com/casjay-systems) 
 [ ![@casjayhak](https://avatars.githubusercontent.com/u/58369351?s=64&v=4) ](https://github.com/casjayhak) 
 [ ![@fontmgr](https://avatars.githubusercontent.com/u/59543287?s=64&v=4) ](https://github.com/fontmgr) 
 [ ![@thememgr](https://avatars.githubusercontent.com/u/59550899?s=64&v=4) ](https://github.com/thememgr) 
@@ -89,7 +89,6 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [ ![@dfmgr](https://avatars.githubusercontent.com/u/69711097?s=64&v=4) ](https://github.com/dfmgr) 
 [ ![@systemmgr](https://avatars.githubusercontent.com/u/69769925?s=64&v=4) ](https://github.com/systemmgr) 
 [ ![@wallpapermgr](https://avatars.githubusercontent.com/u/69895055?s=64&v=4) ](https://github.com/wallpapermgr) 
-[ ![@dfprivate](https://avatars.githubusercontent.com/u/70545834?s=64&v=4) ](https://github.com/dfprivate) 
 [ ![@dockermgr](https://avatars.githubusercontent.com/u/70548863?s=64&v=4)](https://github.com/dockermgr) 
   
 ---
@@ -97,94 +96,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 31,401 Contributions in the Year 2021
- > 
-> 📦 855.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-🌆 Daytime    606 commits    ███████████░░░░░░░░░░░░░░   46.58% 
-🌃 Evening    275 commits    █████░░░░░░░░░░░░░░░░░░░░   21.14% 
-🌙 Night      314 commits    ██████░░░░░░░░░░░░░░░░░░░   24.14%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       330 commits    ██████░░░░░░░░░░░░░░░░░░░   25.37% 
-Tuesday      199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Wednesday    151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Thursday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Friday       251 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
-Saturday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Sunday       54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Bash                     9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.66% 
-Other                    8 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.14% 
-Vue.js                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
-Nginx configuration file 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
-
-🔥 Editors: 
-VS Code                  15 hrs 43 mins      █████████████████░░░░░░░░   67.89% 
-Vim                      7 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.11%
-
-🐱‍💻 Projects: 
-scripts                  11 hrs 36 mins      ████████████░░░░░░░░░░░░░   50.11% 
-misc                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-bash                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
-covid-19-api             1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-covid-global-frontend    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
-
-💻 Operating System: 
-Linux                    23 hrs 10 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      17 repos            █████████████░░░░░░░░░░░░   51.52% 
-Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Perl                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/casjay/casjay/master/charts/bar_graph.png) 
-
-
- Last Updated on 31/07/2021
-<!--END_SECTION:waka-->
-  
+<!--END_SECTION:waka-->  
 ---
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcasjay%2Fcasjay?ref=badge_large)
-
 </div>  
