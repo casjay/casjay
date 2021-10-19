@@ -25,9 +25,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ### <strong> Personal links: </strong>  
 [casjay.info](http://casjay.info)  
+[About.Me](https://about.me/casjay)  
   
 ### <strong> Public: </strong>  
-[About.Me](https://about.me/casjay) | 
 [Boincstats](https://boincstats.com/en/page/profile/user/34665/) | 
 [Broadcastify](http://www.radioreference.com/apps/user/?uid=184850) | 
 [Discord](https://discord.gg/z2wS84v) | 
