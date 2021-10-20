@@ -100,7 +100,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 **🐱 My GitHub Data** 
 
-> 🏆 33,829 Contributions in the Year 2021
+> 🏆 33,831 Contributions in the Year 2021
  > 
 > 📦 869.9 kB Used in GitHub's Storage 
  > 
@@ -139,16 +139,18 @@ Sunday       313 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    48 mins             ████████████████████░░░░░   81.56% 
+Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      59 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          59 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    59 mins             █████████████████████████   100.0%
 
 ```
 
