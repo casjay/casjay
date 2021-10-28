@@ -6,6 +6,9 @@ I go by the username casjay I have been
 using that username since I created my  
 first account on yahoo in 1997..  
 Other usernames include chmweb and casjaysdev.  
+
+### <strong> Time spent coding </strong>  
+[![wakatime](https://wakatime.com/badge/user/6d243b33-70c8-4cb8-be81-5e60f2da8818.svg)](https://wakatime.com/@6d243b33-70c8-4cb8-be81-5e60f2da8818)
   
 ### <strong> Interesting Repos </strong>  
 [My Resource Files](https://github.com/casjay/resources) & 
