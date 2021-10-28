@@ -93,7 +93,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 [![casjay's github stats](https://gh-readme-stats.casjay.now.sh/api/?theme=dracula&username=casjay&show_icons=true)](https://github.com/casjay)  
-  
+---
+[![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
