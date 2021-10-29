@@ -96,7 +96,6 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
   
 ---
 [![casjay's github stats](https://gh-readme-stats.casjay.now.sh/api/?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)  
----
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
