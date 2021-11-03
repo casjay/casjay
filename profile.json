@@ -1,6 +1,8 @@
 {
-	"name": "Jason Hempstead",
-	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. Moving from town to town, state to state. ",
-	"links": [],
-	"social": []
+  "name": "Jason Hempstead",
+  "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. Moving from town to town, state to state. ",
+  "links": {
+    "github": "https://github.com/casjay"
+  },
+  "social": {}
 }
