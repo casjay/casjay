@@ -1,8 +1,11 @@
 {
   "name": "Jason Hempstead",
   "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. Moving from town to town, state to state. ",
+  "mail": "jason@casjay.net",
+  "blog": "http://casjay.info",
   "links": {
     "github": "https://github.com/casjay"
   },
-  "social": {}
+  "social": ["https://twitter.com/casjay","http://linkedin.com/in/casjay","https://myspace.com/casjay","https://www.pinterest.com/casjaysdev","https://community.spiceworks.com/people/casjay"],
+  "sponsor": ["https://www.paypal.me/casjaysdev","https://www.patreon.com/casjay"]
 }
