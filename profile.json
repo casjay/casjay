@@ -5,9 +5,9 @@
   "website": "http://casjaysdev.com",
   "blog": "http://casjay.info",
   "verify": [
-    { "gpg": "https://github.com/casjay/public/raw/main/jason.asc" },
-    { "ssh": "https://github.com/casjay/public/raw/main/ssh_id.pub" },
-    { "KeyBase": "https://keybase.io/casjay" }
+     "gpg". "https://github.com/casjay/public/raw/main/jason.asc" ,
+     "ssh", "https://github.com/casjay/public/raw/main/ssh_id.pub" ,
+     "KeyBase", "https://keybase.io/casjay" 
   ],
   "dev_links": [
     {
