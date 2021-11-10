@@ -1,11 +1,46 @@
 {
-	"name": "Jason Hempstead",
-	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. Moving from town to town, state to state. ",
-	"mail": "jason@casjay.net",
-	"blog": "http://casjay.info",
-	"links": {
-		"github": "https://github.com/casjay"
-	},
-	"social": ["https://twitter.com/casjay", "http://linkedin.com/in/casjay", "https://myspace.com/casjay", "https://www.pinterest.com/casjaysdev", "https://community.spiceworks.com/people/casjay"],
-	"sponsor": ["https://www.paypal.me/casjaysdev", "https://www.patreon.com/casjay"]
+  "name": "Jason Hempstead",
+  "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. Moving from town to town, state to state. ",
+  "Email": ["jason@casjay.net", "casjay@gmail.com"],
+  "website": "http://casjaysdev.com",
+  "blog": "http://casjay.info",
+  "verify": [
+    { "gpg": "https://github.com/casjay/public/raw/main/jason.asc" },
+    { "ssh": "https://github.com/casjay/public/raw/main/ssh_id.pub" },
+    { "KeyBase": "https://keybase.io/casjay" }
+  ],
+  "dev_links": [
+    {
+      "Github": "https://github.com/casjay",
+      "Gitlab": "http://gitlab.com/casjay",
+      "DockerHub": "https://hub.docker.com/r/casjay",
+      "Fedora": "https://copr.fedorainfracloud.org/coprs/casjay",
+      "Roku": "https://my.roku.com/add/casjaysdev",
+      "Sourceforge": "https://sourceforge.net/u/chmweb/profile"
+    }
+  ],
+  "social": [
+    { "Boincstats": "https://boincstats.com/en/page/profile/user/34665" },
+    { "Broadcastify": "http://www.radioreference.com/apps/user/?uid=184850" },
+    { "Discord": "https://discord.gg/z2wS84v" },
+    { "Flock": "http://casjay.flock.com" },
+    { "Instagram": "https://www.instagram.com/casjay" },
+    { "LastFM": "https://www.last.fm/user/Casjay" },
+    { "SongKick": "https://www.songkick.com/users/casjay" },
+    { "SoundCloud": "https://soundcloud.com/casjay" },
+    { "SpiceWorks": "https://community.spiceworks.com/people/casjay" },
+    { "Tumblr": "https://casjay.tumblr.com" },
+    { "Twitter": "https://twitter.com/casjay" },
+    { "Linkedin": "http://linkedin.com/in/casjay" },
+    { "Myspace": "https://myspace.com/casjay" },
+    { "Pinterest": "https://www.pinterest.com/casjaysdev" },
+    { "Spiceworks": "https://community.spiceworks.com/people/casjay" },
+    {
+      "Yelp": "https://www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ"
+    }
+  ],
+  "sponsor": [
+    { "Paypal": "https://www.paypal.me/casjaysdev" },
+    { "Patreon": "https://www.patreon.com/casjay" }
+  ]
 }
