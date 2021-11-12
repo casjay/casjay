@@ -95,8 +95,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [ ![@dockermgr](https://avatars.githubusercontent.com/u/70548863?s=64&v=4)](https://github.com/dockermgr) 
   
 ---
-[![casjay's github stats](github-readme-stats.vercel.app/api/?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)  
-[![Casjay's wakatime stats](github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
+[![casjay's github stats](https://github-readme-stats.vercel.app/api/?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)  
+[![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
