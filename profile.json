@@ -33,6 +33,15 @@
 		["Roku", "https://my.roku.com/add/casjaysdev"],
 		["Sourceforge", "https://sourceforge.net/u/chmweb/profile"]
 	],
+	"chat": [
+		["XMPP", "http://xmpp.is/", "casjay@xmpp.is"],
+		["ICQ", "https://icq.im/casjay", "67163811"],
+		["Hangouts", "https://hangouts.google.com", "casjay"],
+		["SnapChat", "https://www.snapchat.com/add/casjaysdev", "casjaysdev"],
+		["Telegram", "https://t.me/casjaysdev", "casjaysdev"],
+		["Slack", "http://casjay.slack.com", "jason"],
+		["Discord", "http://discord.gg/z2wS84v", "casjay"]
+	],
 	"social": [
 		["Mastodon.technology", "https://mastodon.technology/@casjay"],
 		["Mastodon.social", "https://mastodon.social/@casjay"],
