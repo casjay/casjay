@@ -2,9 +2,24 @@
 	"name": "Jason Hempstead",
 	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
 	"bio_full": "https://github.com/casjay/casjay/raw/main/bio.text",
-	"Email": ["jason@casjay.net", "casjay@gmail.com"],
+	"email": ["jason@casjay.net", "casjay@gmail.com"],
 	"website": "http://casjaysdev.com",
 	"blog": "http://casjay.info",
+	"phone": [
+		["Phone", "(xXx) 520-8496"],
+		["Fax", "(xXx) 520-8329"]
+	],
+	"email_primary": [
+		["Primary E-mail", "jason@casjay.net", "Jason at casjay dot net"],
+		["Google E-mail", "Casjay@gmail.com", "casjay at gmail dot com"],
+		["Yahoo E-mail", "Casjay@yahoo.com", "casjay at yahoo dot com"],
+		["Outlook E-mail", "Casjay@outlook.com", "casjay at outlook dot com"],
+		["Secure E-mail", "Casjay@protonmail.com", "casjay at protonmail dot com"]
+	],
+	"email_other": [
+		["Site Admin E-mail", "administrator@casjay.net", "admin at casjay dot net"],
+		["Mental Health E-mail", "health@casjay.net", "health at casjay dot net"]
+	],
 	"verify": [
 		["gpg", "https://github.com/casjay/public/raw/main/jason.asc"],
 		["ssh", "https://github.com/casjay/public/raw/main/ssh_id.pub"],
