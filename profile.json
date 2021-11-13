@@ -6,12 +6,12 @@
 	"homepage": "http://casjaysdev.com",
 	"blog": "http://casjay.info",
 	"websites": [
-	        ["Personal", "http://casjay.info"],
-	        ["Business", "http://casjaysdev.com"],
-	        ["Blog", "http://casjay.info/blog"],
-	        ["Network", "http://casjay.net"],
-	        ["Security", "http://hak.casjay.net"]
-	] 
+		["Personal", "http://casjay.info"],
+		["Business", "http://casjaysdev.com"],
+		["Blog", "http://casjay.info/blog"],
+		["Network", "http://casjay.net"],
+		["Security", "http://hak.casjay.net"]
+	],
 	"phone": [
 		["Phone", "(xXx) 520-8496"],
 		["Fax", "(xXx) 520-8329"]
