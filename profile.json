@@ -1,16 +1,16 @@
 {
 	"name": "Jason Hempstead",
 	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
-	"bio_full": "https://github.com/casjay/casjay/raw/main/bio.text",
+	"bio_full": "https\://github.com/casjay/casjay/raw/main/bio.text",
 	"email": ["jason@casjay.net", "casjay@gmail.com"],
-	"homepage": "http://casjaysdev.com",
-	"blog": "http://casjay.info",
+	"homepage": "http\://casjaysdev.com",
+	"blog": "http\://casjay.info",
 	"websites": [
-		["Personal", "http://casjay.info"],
-		["Business", "http://casjaysdev.com"],
-		["Blog", "http://casjay.info/blog"],
-		["Network", "http://casjay.net"],
-		["Security", "http://hak.casjay.net"]
+		["Personal", "http\://casjay.info"],
+		["Business", "http\://casjaysdev.com"],
+		["Blog", "http\://casjay.info/blog"],
+		["Network", "http\://casjay.net"],
+		["Security", "http\://hak.casjay.net"]
 	],
 	"phone": [
 		["Phone", "(xXx) 520-8496"],
