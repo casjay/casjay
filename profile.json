@@ -1,16 +1,16 @@
 {
 	"name": "Jason Hempstead",
 	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
-	"bio_full": "https\://github.com/casjay/casjay/raw/main/bio.text",
+	"bio_full": "//github.com/casjay/casjay/raw/main/bio.text",
 	"email": ["jason@casjay.net", "casjay@gmail.com"],
-	"homepage": "http\://casjaysdev.com",
-	"blog": "http\://casjay.info",
+	"homepage": "//casjaysdev.com",
+	"blog": "//casjay.info",
 	"websites": [
-		["Personal", "http\://casjay.info"],
-		["Business", "http\://casjaysdev.com"],
-		["Blog", "http\://casjay.info/blog"],
-		["Network", "http\://casjay.net"],
-		["Security", "http\://hak.casjay.net"]
+		["Personal", "//casjay.info"],
+		["Business", "//casjaysdev.com"],
+		["Blog", "//casjay.info/blog"],
+		["Network", "//casjay.net"],
+		["Security", "//hak.casjay.net"]
 	],
 	"phone": [
 		["Phone", "(xXx) 520-8496"],
@@ -28,50 +28,50 @@
 		["Mental Health E-mail", "health@casjay.net", "health at casjay dot net"]
 	],
 	"verify": [
-		["gpg", "https://github.com/casjay/public/raw/main/jason.asc"],
-		["ssh", "https://github.com/casjay/public/raw/main/ssh_id.pub"],
-		["KeyBase", "https://keybase.io/casjay"]
+		["gpg", "//github.com/casjay/public/raw/main/jason.asc"],
+		["ssh", "//github.com/casjay/public/raw/main/ssh_id.pub"],
+		["KeyBase", "//keybase.io/casjay"]
 	],
 	"dev_links": [
-		["Github", "https://github.com/casjay"],
-		["Gitlab", "http://gitlab.com/casjay"],
-		["DockerHub", "https://hub.docker.com/r/casjay"],
-		["Fedora", "https://copr.fedorainfracloud.org/coprs/casjay"],
-		["Roku", "https://my.roku.com/add/casjaysdev"],
-		["Sourceforge", "https://sourceforge.net/u/chmweb/profile"]
+		["Github", "//github.com/casjay"],
+		["Gitlab", "//gitlab.com/casjay"],
+		["DockerHub", "//hub.docker.com/r/casjay"],
+		["Fedora", "//copr.fedorainfracloud.org/coprs/casjay"],
+		["Roku", "//my.roku.com/add/casjaysdev"],
+		["Sourceforge", "//sourceforge.net/u/chmweb/profile"]
 	],
 	"chat": [
-		["XMPP", "http://xmpp.is/", "casjay@xmpp.is"],
-		["ICQ", "https://icq.im/casjay", "67163811"],
-		["Hangouts", "https://hangouts.google.com", "casjay"],
-		["SnapChat", "https://www.snapchat.com/add/casjaysdev", "casjaysdev"],
-		["Telegram", "https://t.me/casjaysdev", "casjaysdev"],
-		["Slack", "http://casjay.slack.com", "jason"],
-		["Discord", "http://discord.gg/z2wS84v", "casjay"]
+		["XMPP", "//xmpp.is/", "casjay@xmpp.is"],
+		["ICQ", "//icq.im/casjay", "67163811"],
+		["Hangouts", "//hangouts.google.com", "casjay"],
+		["SnapChat", "//www.snapchat.com/add/casjaysdev", "casjaysdev"],
+		["Telegram", "//t.me/casjaysdev", "casjaysdev"],
+		["Slack", "//casjay.slack.com", "jason"],
+		["Discord", "//discord.gg/z2wS84v", "casjay"]
 	],
 	"social": [
-		["Mastodon.technology", "https://mastodon.technology/@casjay"],
-		["Mastodon.social", "https://mastodon.social/@casjay"],
-		["distrotoot", "https://distrotoot.com/@casjay"],
-		["Boincstats", "https://boincstats.com/en/page/profile/user/34665"],
-		["Broadcastify", "http://www.radioreference.com/apps/user/?uid=184850"],
-		["Discord", "https://discord.gg/z2wS84v"],
-		["Flock", "http://casjay.flock.com"],
-		["Instagram", "https://www.instagram.com/casjay"],
-		["LastFM", "https://www.last.fm/user/Casjay"],
-		["SongKick", "https://www.songkick.com/users/casjay"],
-		["SoundCloud", "https://soundcloud.com/casjay"],
-		["SpiceWorks", "https://community.spiceworks.com/people/casjay"],
-		["Tumblr", "https://casjay.tumblr.com"],
-		["Twitter", "https://twitter.com/casjay"],
-		["Linkedin", "http://linkedin.com/in/casjay"],
-		["Myspace", "https://myspace.com/casjay"],
-		["Pinterest", "https://www.pinterest.com/casjaysdev"],
-		["Spiceworks", "https://community.spiceworks.com/people/casjay"],
-		["Yelp", "https://www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ"]
+		["Mastodon.technology", "//mastodon.technology/@casjay"],
+		["Mastodon.social", "//mastodon.social/@casjay"],
+		["distrotoot", "//distrotoot.com/@casjay"],
+		["Boincstats", "//boincstats.com/en/page/profile/user/34665"],
+		["Broadcastify", "//www.radioreference.com/apps/user/?uid=184850"],
+		["Discord", "//discord.gg/z2wS84v"],
+		["Flock", "//casjay.flock.com"],
+		["Instagram", "//www.instagram.com/casjay"],
+		["LastFM", "//www.last.fm/user/Casjay"],
+		["SongKick", "//www.songkick.com/users/casjay"],
+		["SoundCloud", "//soundcloud.com/casjay"],
+		["SpiceWorks", "//community.spiceworks.com/people/casjay"],
+		["Tumblr", "//casjay.tumblr.com"],
+		["Twitter", "//twitter.com/casjay"],
+		["Linkedin", "//linkedin.com/in/casjay"],
+		["Myspace", "//myspace.com/casjay"],
+		["Pinterest", "//www.pinterest.com/casjaysdev"],
+		["Spiceworks", "//community.spiceworks.com/people/casjay"],
+		["Yelp", "//www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ"]
 	],
 	"sponsor": [
-		["Paypal", "https://www.paypal.me/casjaysdev"],
-		["Patreon", "https://www.patreon.com/casjay"]
+		["Paypal", "//www.paypal.me/casjaysdev"],
+		["Patreon", "//www.patreon.com/casjay"]
 	]
 }
