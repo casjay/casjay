@@ -106,7 +106,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 **🐱 My GitHub Data** 
 
-> 🏆 36,151 Contributions in the Year 2021
+> 🏆 36,152 Contributions in the Year 2021
  > 
 > 📦 870.7 kB Used in GitHub's Storage 
  > 
@@ -185,7 +185,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->  
 ---
 
