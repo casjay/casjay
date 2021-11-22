@@ -96,6 +96,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [ ![@systemmgr](https://avatars.githubusercontent.com/u/69769925?s=64&v=4) ](https://github.com/systemmgr) 
 [ ![@wallpapermgr](https://avatars.githubusercontent.com/u/69895055?s=64&v=4) ](https://github.com/wallpapermgr) 
 [ ![@dockermgr](https://avatars.githubusercontent.com/u/70548863?s=64&v=4)](https://github.com/dockermgr) 
+[ ![@dfvim](https://avatars.githubusercontent.com/u/94795046?s=200&v=4)](https://github.com/dfvim)  
   
 ---
 [![casjay's github stats](https://github-readme-stats.vercel.app/api/?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)  
