@@ -103,11 +103,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 36,504 Contributions in the Year 2021
+> 🏆 36,510 Contributions in the Year 2021
  > 
 > 📦 870.2 kB Used in GitHub's Storage 
  > 
