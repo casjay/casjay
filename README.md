@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40,839 Contributions in the Year 2021
+> 🏆 40,912 Contributions in the Year 2021
  > 
 > 📦 870.6 kB Used in GitHub's Storage 
  > 
@@ -123,9 +123,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 🌞 Morning    92 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-🌆 Daytime    164 commits    ██████████░░░░░░░░░░░░░░░   39.61% 
+🌆 Daytime    167 commits    ██████████░░░░░░░░░░░░░░░   40.34% 
 🌃 Evening    110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.57% 
-🌙 Night      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
+🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -135,8 +135,8 @@ Monday       105 commits    ██████░░░░░░░░░░░�
 Tuesday      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
 Wednesday    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
 Thursday     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Friday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-Saturday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
+Friday       75 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
+Saturday     69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Sunday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56%
 
 ```
@@ -188,7 +188,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->  
 ---
 
