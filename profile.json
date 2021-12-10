@@ -38,7 +38,9 @@
 		["DockerHub", "//hub.docker.com/r/casjay"],
 		["Fedora", "//copr.fedorainfracloud.org/coprs/casjay"],
 		["Roku", "//my.roku.com/add/casjaysdev"],
-		["Sourceforge", "//sourceforge.net/u/chmweb/profile"]
+		["Sourceforge", "//sourceforge.net/u/chmweb/profile"],
+		["npmjs", "//www.npmjs.com/~casjay"],
+		["RubyGems", "https://rubygems.org/profiles/casjay"]
 	],
 	"chat": [
 		["XMPP", "//xmpp.is/", "casjay@xmpp.is"],
