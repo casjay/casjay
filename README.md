@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C327%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 42,752 Contributions in the Year 2021
+> 🏆 42,763 Contributions in the Year 2021
  > 
 > 📦 870.5 kB Used in GitHub's Storage 
  > 
@@ -122,9 +122,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-🌆 Daytime    204 commits    ██████████████░░░░░░░░░░░   57.14% 
-🌃 Evening    95 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
+🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+🌆 Daytime    203 commits    ██████████████░░░░░░░░░░░   56.86% 
+🌃 Evening    94 commits     ██████░░░░░░░░░░░░░░░░░░░   26.33% 
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
 
 ```
@@ -134,8 +134,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 Monday       100 commits    ███████░░░░░░░░░░░░░░░░░░   28.01% 
 Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
 Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-Friday       82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
+Friday       81 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69% 
 Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
 Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08%
 
