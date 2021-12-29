@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C378%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C378%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 43,002 Contributions in the Year 2021
+> 🏆 43,003 Contributions in the Year 2021
  > 
 > 📦 870.8 kB Used in GitHub's Storage 
  > 
