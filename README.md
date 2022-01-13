@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 552 Contributions in the Year 2022
+> 🏆 589 Contributions in the Year 2022
  > 
 > 📦 878.8 kB Used in GitHub's Storage 
  > 
@@ -132,8 +132,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 Monday       87 commits     ██████░░░░░░░░░░░░░░░░░░░   24.17% 
-Tuesday      65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-Wednesday    25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+Tuesday      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
 Thursday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Friday       94 commits     ██████░░░░░░░░░░░░░░░░░░░   26.11% 
 Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
