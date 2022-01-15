@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C463%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 877 Contributions in the Year 2022
+> 🏆 938 Contributions in the Year 2022
  > 
 > 📦 879.6 kB Used in GitHub's Storage 
  > 
@@ -122,8 +122,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-🌆 Daytime    184 commits    ████████████░░░░░░░░░░░░░   50.97% 
+🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+🌆 Daytime    187 commits    █████████████░░░░░░░░░░░░   51.8% 
 🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.22% 
 🌙 Night      41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36%
 
@@ -132,10 +132,10 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 Monday       85 commits     ██████░░░░░░░░░░░░░░░░░░░   23.55% 
-Tuesday      56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
 Wednesday    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
-Thursday     59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Friday       112 commits    ███████░░░░░░░░░░░░░░░░░░   31.02% 
+Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Friday       117 commits    ████████░░░░░░░░░░░░░░░░░   32.41% 
 Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
 Sunday       10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
 
@@ -188,7 +188,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->  
 ---
 
