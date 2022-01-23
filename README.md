@@ -103,11 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C593%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,600 Contributions in the Year 2022
+> 🏆 2,628 Contributions in the Year 2022
  > 
 > 📦 879.8 kB Used in GitHub's Storage 
  > 
@@ -120,22 +122,22 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-🌆 Daytime    175 commits    ████████████░░░░░░░░░░░░░   48.48% 
+🌞 Morning    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
+🌆 Daytime    174 commits    ████████████░░░░░░░░░░░░░   48.2% 
 🌃 Evening    101 commits    ███████░░░░░░░░░░░░░░░░░░   27.98% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.93%
+🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Tuesday      36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Wednesday    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
+Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
 Thursday     85 commits     ██████░░░░░░░░░░░░░░░░░░░   23.55% 
 Friday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   24.38% 
 Saturday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
+Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
@@ -185,7 +187,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 08:24:27 UTC
+ Last Updated on 23/01/2022 12:33:31 UTC
 <!--END_SECTION:waka-->  
 ---
 
