@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C623%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C631%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,371 Contributions in the Year 2022
+> 🏆 3,513 Contributions in the Year 2022
  > 
 > 📦 879.3 kB Used in GitHub's Storage 
  > 
@@ -123,8 +123,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-🌆 Daytime    205 commits    ██████████████░░░░░░░░░░░   56.16% 
-🌃 Evening    71 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
+🌆 Daytime    200 commits    █████████████░░░░░░░░░░░░   54.79% 
+🌃 Evening    76 commits     █████░░░░░░░░░░░░░░░░░░░░   20.82% 
 🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68%
 
 ```
@@ -135,8 +135,8 @@ Monday       115 commits    ████████░░░░░░░░░�
 Tuesday      36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
 Wednesday    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
 Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-Friday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-Saturday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+Friday       79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.64% 
+Saturday     24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
 Sunday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
 
 ```
@@ -188,7 +188,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 20:22:48 UTC
+ Last Updated on 29/01/2022 04:27:02 UTC
 <!--END_SECTION:waka-->  
 ---
 
