@@ -103,15 +103,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C895%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C897%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6,666 Contributions in the Year 2022
+> 🏆 6,713 Contributions in the Year 2022
  > 
-> 📦 918.2 kB Used in GitHub's Storage 
+> 📦 918.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,9 +122,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-🌆 Daytime    229 commits    ██████████░░░░░░░░░░░░░░░   42.33% 
-🌃 Evening    203 commits    █████████░░░░░░░░░░░░░░░░   37.52% 
+🌞 Morning    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+🌆 Daytime    226 commits    ██████████░░░░░░░░░░░░░░░   41.77% 
+🌃 Evening    208 commits    █████████░░░░░░░░░░░░░░░░   38.45% 
 🌙 Night      37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.84%
 
 ```
@@ -148,16 +148,22 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     0 secs              █████████████████████████   100.0%
+Other                    1 hr 39 mins        ████████████████████████░   97.44% 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Vim                      0 secs              █████████████████████████   100.0%
+VS Code                  1 hr 39 mins        ████████████████████████░   97.44% 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.0%
+scripts                  1 hr 24 mins        ████████████████████░░░░░   83.18% 
+misc                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Linux                    1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
@@ -178,7 +184,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/03/2022 20:25:02 UTC
+ Last Updated on 22/03/2022 08:30:16 UTC
 <!--END_SECTION:waka-->  
 ---
 
