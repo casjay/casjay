@@ -103,6 +103,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C899%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -146,22 +148,16 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 24 mins        █████████████████░░░░░░░░   71.15% 
-Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-Vue.js                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
+Other                    21 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        ████████████████████░░░░░   82.02% 
-Vim                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+Vim                      21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-api                      1 hr 23 mins        █████████████████░░░░░░░░   70.38% 
-Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-covid-nys-frontend       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65%
+Unknown Project          21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.0%
+Linux                    21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -182,7 +178,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 04:29:20 UTC
+ Last Updated on 31/03/2022 08:26:06 UTC
 <!--END_SECTION:waka-->  
 ---
 
