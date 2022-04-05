@@ -103,13 +103,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C899%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6,730 Contributions in the Year 2022
  > 
-> 📦 918.4 kB Used in GitHub's Storage 
+> 📦 918.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -146,16 +148,17 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   100.0%
+HTML                     5 mins              ██████████████████████░░░   88.67% 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.33%
 
 🔥 Editors: 
-Vim                      21 mins             █████████████████████████   100.0%
+Vim                      5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          21 mins             █████████████████████████   100.0%
+Unknown Project          5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.0%
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -176,7 +179,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/04/2022 04:28:56 UTC
+ Last Updated on 05/04/2022 08:28:39 UTC
 <!--END_SECTION:waka-->  
 ---
 
