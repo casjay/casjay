@@ -103,7 +103,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C002%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -122,8 +122,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-🌆 Daytime    245 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
+🌞 Morning    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
+🌆 Daytime    231 commits    █████████░░░░░░░░░░░░░░░░   38.69% 
 🌃 Evening    255 commits    ██████████░░░░░░░░░░░░░░░   42.71% 
 🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
 
@@ -131,12 +131,12 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       128 commits    █████░░░░░░░░░░░░░░░░░░░░   21.44% 
+Monday       143 commits    ██████░░░░░░░░░░░░░░░░░░░   23.95% 
 Tuesday      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
 Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
 Thursday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
 Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
-Saturday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Saturday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
 Sunday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.59%
 
 ```
@@ -187,7 +187,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/07/2022 12:58:28 UTC
+ Last Updated on 04/07/2022 16:38:07 UTC
 <!--END_SECTION:waka-->  
 ---
 
