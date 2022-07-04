@@ -103,13 +103,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C997%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 9,645 Contributions in the Year 2022
+> 🏆 9,771 Contributions in the Year 2022
  > 
 > 📦 905.5 kB Used in GitHub's Storage 
  > 
@@ -119,24 +119,24 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
 🌆 Daytime    245 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
-🌃 Evening    259 commits    ██████████░░░░░░░░░░░░░░░   43.38% 
-🌙 Night      38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
+🌃 Evening    255 commits    ██████████░░░░░░░░░░░░░░░   42.71% 
+🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
+Monday       122 commits    █████░░░░░░░░░░░░░░░░░░░░   20.44% 
 Tuesday      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
 Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
 Thursday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Friday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
+Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
 Sunday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.59%
 
 ```
@@ -187,7 +187,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/07/2022 04:54:55 UTC
+ Last Updated on 04/07/2022 08:32:25 UTC
 <!--END_SECTION:waka-->  
 ---
 
