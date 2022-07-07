@@ -103,15 +103,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C049%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C053%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 14,700 Contributions in the Year 2022
+> 🏆 18,435 Contributions in the Year 2022
  > 
-> 📦 905.5 kB Used in GitHub's Storage 
+> 📦 906.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,19 +122,19 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-🌆 Daytime    239 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
-🌃 Evening    254 commits    ██████████░░░░░░░░░░░░░░░   41.5% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+🌞 Morning    54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+🌆 Daytime    318 commits    █████████████░░░░░░░░░░░░   51.96% 
+🌃 Evening    216 commits    ████████░░░░░░░░░░░░░░░░░   35.29% 
+🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Tuesday      114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
-Wednesday    137 commits    █████░░░░░░░░░░░░░░░░░░░░   22.39% 
-Thursday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+Tuesday      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Thursday     163 commits    ██████░░░░░░░░░░░░░░░░░░░   26.63% 
 Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
 Saturday     19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
 Sunday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07%
@@ -187,7 +187,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2022 16:40:22 UTC
+ Last Updated on 07/07/2022 20:25:46 UTC
 <!--END_SECTION:waka-->  
 ---
 
