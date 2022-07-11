@@ -102,7 +102,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C121%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C122%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -110,7 +110,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 > 🏆 22,531 Contributions in the Year 2022
  > 
-> 📦 906.3 kB Used in GitHub's Storage 
+> 📦 906.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -186,7 +186,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2022 08:45:50 UTC
+ Last Updated on 11/07/2022 12:57:37 UTC
 <!--END_SECTION:waka-->  
 ---
 
