@@ -102,13 +102,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 23,660 Contributions in the Year 2022
+> 🏆 23,688 Contributions in the Year 2022
  > 
 > 📦 906.4 kB Used in GitHub's Storage 
  > 
@@ -121,18 +121,18 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+🌞 Morning    113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
 🌆 Daytime    307 commits    █████████░░░░░░░░░░░░░░░░   37.81% 
-🌃 Evening    347 commits    ██████████░░░░░░░░░░░░░░░   42.73% 
+🌃 Evening    344 commits    ██████████░░░░░░░░░░░░░░░   42.36% 
 🌙 Night      48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       198 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38% 
+Monday       195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.01% 
 Tuesday      162 commits    █████░░░░░░░░░░░░░░░░░░░░   19.95% 
-Wednesday    86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Wednesday    89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
 Thursday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
 Friday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
 Saturday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
@@ -186,7 +186,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 08:30:12 UTC
+ Last Updated on 13/07/2022 12:45:04 UTC
 <!--END_SECTION:waka-->  
 ---
 
