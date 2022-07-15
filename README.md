@@ -102,15 +102,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C193%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C197%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 27,976 Contributions in the Year 2022
+> 🏆 28,069 Contributions in the Year 2022
  > 
-> 📦 906.4 kB Used in GitHub's Storage 
+> 📦 906.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,8 +121,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    172 commits    █████░░░░░░░░░░░░░░░░░░░░   21.94% 
-🌆 Daytime    294 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
+🌞 Morning    162 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66% 
+🌆 Daytime    304 commits    █████████░░░░░░░░░░░░░░░░   38.78% 
 🌃 Evening    273 commits    ████████░░░░░░░░░░░░░░░░░   34.82% 
 🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
 
@@ -186,7 +186,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 16:36:11 UTC
+ Last Updated on 15/07/2022 20:29:26 UTC
 <!--END_SECTION:waka-->  
 ---
 
