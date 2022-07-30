@@ -102,13 +102,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C405%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C407%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32,342 Contributions in the Year 2022
+> 🏆 32,352 Contributions in the Year 2022
  > 
 > 📦 907.1 kB Used in GitHub's Storage 
  > 
@@ -122,8 +122,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 🌞 Morning    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-🌆 Daytime    332 commits    ██████████░░░░░░░░░░░░░░░   41.4% 
-🌃 Evening    316 commits    █████████░░░░░░░░░░░░░░░░   39.4% 
+🌆 Daytime    333 commits    ██████████░░░░░░░░░░░░░░░   41.52% 
+🌃 Evening    315 commits    █████████░░░░░░░░░░░░░░░░   39.28% 
 🌙 Night      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61%
 
 ```
@@ -131,11 +131,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 Monday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   20.57% 
-Tuesday      111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
+Tuesday      110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
 Wednesday    114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
 Thursday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
 Friday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
-Saturday     156 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
+Saturday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   19.58% 
 Sunday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6%
 
 ```
@@ -186,7 +186,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2022 16:32:16 UTC
+ Last Updated on 30/07/2022 20:23:20 UTC
 <!--END_SECTION:waka-->  
 ---
 
