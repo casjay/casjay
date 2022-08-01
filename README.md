@@ -102,15 +102,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C441%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C445%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32,375 Contributions in the Year 2022
+> 🏆 32,386 Contributions in the Year 2022
  > 
-> 📦 162.2 kB Used in GitHub's Storage 
+> 📦 162.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,16 +122,16 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 🌞 Morning    95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-🌆 Daytime    318 commits    ██████████░░░░░░░░░░░░░░░   40.87% 
-🌃 Evening    283 commits    █████████░░░░░░░░░░░░░░░░   36.38% 
+🌆 Daytime    319 commits    ██████████░░░░░░░░░░░░░░░   41.0% 
+🌃 Evening    282 commits    █████████░░░░░░░░░░░░░░░░   36.25% 
 🌙 Night      82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       182 commits    █████░░░░░░░░░░░░░░░░░░░░   23.39% 
-Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Monday       183 commits    ██████░░░░░░░░░░░░░░░░░░░   23.52% 
+Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
 Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
 Thursday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
 Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
@@ -186,7 +186,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2022 16:36:24 UTC
+ Last Updated on 01/08/2022 20:33:33 UTC
 <!--END_SECTION:waka-->  
 ---
 
