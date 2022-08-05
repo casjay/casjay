@@ -102,15 +102,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C496%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C502%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32,452 Contributions in the Year 2022
+> 🏆 32,454 Contributions in the Year 2022
  > 
-> 📦 162.2 kB Used in GitHub's Storage 
+> 📦 162.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -171,11 +171,11 @@ Linux                    94 hrs 25 mins      ███████████�
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      11 repos            ████████░░░░░░░░░░░░░░░░░   35.48% 
-Shell                    7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+CSS                      11 repos            ████████░░░░░░░░░░░░░░░░░   34.38% 
+Shell                    7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
@@ -185,7 +185,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2022 20:27:49 UTC
+ Last Updated on 05/08/2022 02:02:08 UTC
 <!--END_SECTION:waka-->  
 ---
 
