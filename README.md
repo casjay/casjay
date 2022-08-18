@@ -110,7 +110,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 > 🏆 32,683 Contributions in the Year 2022
  > 
-> 📦 162.1 kB Used in GitHub's Storage 
+> 📦 162.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -186,7 +186,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 12:49:55 UTC
+ Last Updated on 18/08/2022 16:44:33 UTC
 <!--END_SECTION:waka-->  
 ---
 
