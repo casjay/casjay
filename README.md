@@ -102,13 +102,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C767%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C769%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 35,509 Contributions in the Year 2022
+> 🏆 35,683 Contributions in the Year 2022
  > 
 > 📦 162.3 kB Used in GitHub's Storage 
  > 
@@ -121,9 +121,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+🌞 Morning    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
 🌆 Daytime    325 commits    █████████░░░░░░░░░░░░░░░░   36.72% 
-🌃 Evening    393 commits    ███████████░░░░░░░░░░░░░░   44.41% 
+🌃 Evening    382 commits    ██████████░░░░░░░░░░░░░░░   43.16% 
 🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04%
 
 ```
@@ -134,9 +134,9 @@ Monday       179 commits    █████░░░░░░░░░░░░�
 Tuesday      94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
 Wednesday    174 commits    █████░░░░░░░░░░░░░░░░░░░░   19.66% 
 Thursday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Friday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Friday       87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
 Saturday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Sunday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
+Sunday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.43%
 
 ```
 
@@ -186,7 +186,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 12:45:33 UTC
+ Last Updated on 26/08/2022 16:33:15 UTC
 <!--END_SECTION:waka-->  
 ---
 
