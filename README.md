@@ -104,7 +104,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C845%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -147,16 +147,16 @@ Sunday       79 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-misc                     9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -177,7 +177,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 05:42:34 UTC
+ Last Updated on 19/09/2022 08:36:22 UTC
 <!--END_SECTION:waka-->  
 ---
 
