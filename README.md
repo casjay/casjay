@@ -102,7 +102,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C845%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C847%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -147,16 +147,19 @@ Sunday       79 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 35 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 hr 2 mins         ████████████████░░░░░░░░░   65.27% 
+VS Code                  33 mins             ████████░░░░░░░░░░░░░░░░░   34.73%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scripts                  1 hr                ████████████████░░░░░░░░░   63.52% 
+misc                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   26.45% 
+bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 35 mins        █████████████████████████   100.0%
 
 ```
 
@@ -177,7 +180,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/casjay/casjay/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 05:31:58 UTC
+ Last Updated on 21/09/2022 08:37:38 UTC
 <!--END_SECTION:waka-->  
 ---
 
