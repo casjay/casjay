@@ -1,79 +1,83 @@
 {
-	"name": "Jason Hempstead",
-	"bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
-	"bio_full": "//github.com/casjay/casjay/raw/main/bio.text",
-	"email": ["jason@casjay.net", "casjay@gmail.com"],
-	"homepage": "//casjaysdev.com",
-	"blog": "//jason.malaks.us/blog",
-	"websites": [
-		["Personal", "//jason.malaks.us"],
-		["Business", "//casjaysdev.com"],
-		["Blog", "//casjay.info/blog"],
-		["Network", "//casjay.net"],
-		["Security", "//hak.casjay.net"]
-	],
-	"phone": [
-		["Phone", "(xXx) 520-8496"],
-		["Fax", "(xXx) 520-8329"]
-	],
-	"email_primary": [
-		["Primary E-mail", "jason@casjay.net", "Jason at casjay dot net"],
-		["Google E-mail", "Casjay@gmail.com", "casjay at gmail dot com"],
-		["Yahoo E-mail", "Casjay@yahoo.com", "casjay at yahoo dot com"],
-		["Outlook E-mail", "Casjay@outlook.com", "casjay at outlook dot com"],
-		["Secure E-mail", "Casjay@protonmail.com", "casjay at protonmail dot com"]
-	],
-	"email_other": [
-		["Site Admin E-mail", "administrator@casjay.net", "admin at casjay dot net"],
-		["Mental Health E-mail", "health@casjay.net", "health at casjay dot net"]
-	],
-	"verify": [
-		["gpg", "//github.com/casjay/public/raw/main/jason.asc"],
-		["ssh", "//github.com/casjay/public/raw/main/ssh_id.pub"],
-		["KeyBase", "//keybase.io/casjay"]
-	],
-	"dev_links": [
-		["Github", "//github.com/casjay"],
-		["Gitlab", "//gitlab.com/casjay"],
-		["DockerHub", "//hub.docker.com/r/casjay"],
-		["Fedora", "//copr.fedorainfracloud.org/coprs/casjay"],
-		["Roku", "//my.roku.com/add/casjaysdev"],
-		["Sourceforge", "//sourceforge.net/u/chmweb/profile"],
-		["npmjs", "//www.npmjs.com/~casjay"],
-		["RubyGems", "https://rubygems.org/profiles/casjay"]
-	],
-	"chat": [
-		["XMPP", "//xmpp.is/", "casjay@xmpp.is"],
-		["ICQ", "//icq.im/casjay", "67163811"],
-		["Hangouts", "//hangouts.google.com", "casjay"],
-		["SnapChat", "//www.snapchat.com/add/casjaysdev", "casjaysdev"],
-		["Telegram", "//t.me/casjaysdev", "casjaysdev"],
-		["Slack", "//casjay.slack.com", "jason"],
-		["Discord", "//discord.gg/z2wS84v", "casjay"]
-	],
-	"social": [
-		["Mastodon.technology", "//mastodon.technology/@casjay"],
-		["Mastodon.social", "//mastodon.social/@casjay"],
-		["distrotoot", "//distrotoot.com/@casjay"],
-		["Boincstats", "//boincstats.com/en/page/profile/user/34665"],
-		["Broadcastify", "//www.radioreference.com/apps/user/?uid=184850"],
-		["Discord", "//discord.gg/z2wS84v"],
-		["Flock", "//casjay.flock.com"],
-		["Instagram", "//www.instagram.com/casjay"],
-		["LastFM", "//www.last.fm/user/Casjay"],
-		["SongKick", "//www.songkick.com/users/casjay"],
-		["SoundCloud", "//soundcloud.com/casjay"],
-		["SpiceWorks", "//community.spiceworks.com/people/casjay"],
-		["Tumblr", "//casjay.tumblr.com"],
-		["Twitter", "//twitter.com/casjay"],
-		["Linkedin", "//linkedin.com/in/casjay"],
-		["Myspace", "//myspace.com/casjay"],
-		["Pinterest", "//www.pinterest.com/casjaysdev"],
-		["Spiceworks", "//community.spiceworks.com/people/casjay"],
-		["Yelp", "//www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ"]
-	],
-	"sponsor": [
-		["Paypal", "//www.paypal.me/casjaysdev"],
-		["Patreon", "//www.patreon.com/casjay"]
-	]
+  "name": "Jason Hempstead",
+  "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
+  "bio_full": "//github.com/casjay/casjay/raw/main/bio.text",
+  "email": ["jason@casjay.net", "casjay@gmail.com"],
+  "homepage": "//casjaysdev.com",
+  "blog": "//malaks-us.github.io/jason/blog",
+  "websites": [
+    ["Personal", "//malaks-us.github.io/jason"],
+    ["Business", "//casjaysdev.com"],
+    ["Blog", "//casjay.info/blog"],
+    ["Network", "//casjay.net"],
+    ["Security", "//hak.casjay.net"]
+  ],
+  "phone": [
+    ["Phone", "(xXx) 520-8496"],
+    ["Fax", "(xXx) 520-8329"]
+  ],
+  "email_primary": [
+    ["Primary E-mail", "jason@casjay.net", "Jason at casjay dot net"],
+    ["Google E-mail", "Casjay@gmail.com", "casjay at gmail dot com"],
+    ["Yahoo E-mail", "Casjay@yahoo.com", "casjay at yahoo dot com"],
+    ["Outlook E-mail", "Casjay@outlook.com", "casjay at outlook dot com"],
+    ["Secure E-mail", "Casjay@protonmail.com", "casjay at protonmail dot com"]
+  ],
+  "email_other": [
+    [
+      "Site Admin E-mail",
+      "administrator@casjay.net",
+      "admin at casjay dot net"
+    ],
+    ["Mental Health E-mail", "health@casjay.net", "health at casjay dot net"]
+  ],
+  "verify": [
+    ["gpg", "//github.com/casjay/public/raw/main/jason.asc"],
+    ["ssh", "//github.com/casjay/public/raw/main/ssh_id.pub"],
+    ["KeyBase", "//keybase.io/casjay"]
+  ],
+  "dev_links": [
+    ["Github", "//github.com/casjay"],
+    ["Gitlab", "//gitlab.com/casjay"],
+    ["DockerHub", "//hub.docker.com/r/casjay"],
+    ["Fedora", "//copr.fedorainfracloud.org/coprs/casjay"],
+    ["Roku", "//my.roku.com/add/casjaysdev"],
+    ["Sourceforge", "//sourceforge.net/u/chmweb/profile"],
+    ["npmjs", "//www.npmjs.com/~casjay"],
+    ["RubyGems", "https://rubygems.org/profiles/casjay"]
+  ],
+  "chat": [
+    ["XMPP", "//xmpp.is/", "casjay@xmpp.is"],
+    ["ICQ", "//icq.im/casjay", "67163811"],
+    ["Hangouts", "//hangouts.google.com", "casjay"],
+    ["SnapChat", "//www.snapchat.com/add/casjaysdev", "casjaysdev"],
+    ["Telegram", "//t.me/casjaysdev", "casjaysdev"],
+    ["Slack", "//casjay.slack.com", "jason"],
+    ["Discord", "//discord.gg/z2wS84v", "casjay"]
+  ],
+  "social": [
+    ["Mastodon.technology", "//mastodon.technology/@casjay"],
+    ["Mastodon.social", "//mastodon.social/@casjay"],
+    ["distrotoot", "//distrotoot.com/@casjay"],
+    ["Boincstats", "//boincstats.com/en/page/profile/user/34665"],
+    ["Broadcastify", "//www.radioreference.com/apps/user/?uid=184850"],
+    ["Discord", "//discord.gg/z2wS84v"],
+    ["Flock", "//casjay.flock.com"],
+    ["Instagram", "//www.instagram.com/casjay"],
+    ["LastFM", "//www.last.fm/user/Casjay"],
+    ["SongKick", "//www.songkick.com/users/casjay"],
+    ["SoundCloud", "//soundcloud.com/casjay"],
+    ["SpiceWorks", "//community.spiceworks.com/people/casjay"],
+    ["Tumblr", "//casjay.tumblr.com"],
+    ["Twitter", "//twitter.com/casjay"],
+    ["Linkedin", "//linkedin.com/in/casjay"],
+    ["Myspace", "//myspace.com/casjay"],
+    ["Pinterest", "//www.pinterest.com/casjaysdev"],
+    ["Spiceworks", "//community.spiceworks.com/people/casjay"],
+    ["Yelp", "//www.yelp.com/user_details?userid=vSxaZZdqte5WhkOlsPqReQ"]
+  ],
+  "sponsor": [
+    ["Paypal", "//www.paypal.me/casjaysdev"],
+    ["Patreon", "//www.patreon.com/casjay"]
+  ]
 }
