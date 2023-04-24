@@ -31,7 +31,6 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [About.Me](https://about.me/casjay)  
   
 ### <strong> Public: </strong>  
-<a rel="me" href="https://mastodon.technology/@casjay">Mastodon.technology</a> | 
 <a rel="me" href="https://mastodon.social/@casjay">Mastodon.social</a> | 
 <a rel="me" href="https://distrotoot.com/@casjay">distrotoot</a>  
 [Boincstats](https://boincstats.com/en/page/profile/user/34665/) | 
