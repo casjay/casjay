@@ -97,8 +97,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [ ![@dfvim](https://avatars.githubusercontent.com/u/94795046?s=200&v=4)](https://github.com/dfvim)  
   
 ---
-[![casjay's github stats](https://github-readme-stats.vercel.app/api/?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)  
-[![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dracula&show_icons=true&username=casjay)](https://github.com/casjay)
+### ℹ️ Stats ℹ️
+[![casjay's github stats](https://github-readme-stats.vercel.app/api/?username=casjay&show_icons=true&theme=dracula)](https://github.com/casjay)  
+[![Casjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=casjay&show_icons=true&theme=dracula)](https://github.com/casjay)  
+  
+### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C546%20hrs%207%20mins-blue)
