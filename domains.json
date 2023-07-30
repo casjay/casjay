@@ -1,22 +1,10 @@
 {
   "domains": [
-    "apmpproject.org",
-    "casjay.cc",
-    "casjay.coffee",
-    "casjay.email",
-    "casjay.in",
-    "casjay.info",
-    "casjay.link",
-    "casjay.net",
-    "casjay.org",
-    "casjay.tel",
-    "casjay.us",
     "casjay.xyz",
-    "casjaydns.com",
-    "casjaygames.com",
-    "casjaysdev.com",
-    "malaks.us",
-    "mpmalak.com",
-    "sqldb.us"
+    "sqldb.us",
+    "casjay.link",
+    "casjay.cc",
+    "casjay.org",
+    "casjay.coffee"
   ]
 }
