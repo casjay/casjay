@@ -24,7 +24,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 # <strong> where I am online </strong>  
   
 ### <strong> personal email: </strong>  
-[jason at casjay dot net](mailto:jason@casjay.net)  
+[jason at casjay dot net](mailto:jason@casjay.pro)  
 
 ### <strong> Personal links: </strong>  
 [casjay.info](http://casjay.info)  
@@ -84,7 +84,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 [ ![@casjay-templates](https://avatars.githubusercontent.com/u/62282596?s=64&v=4) ](https://github.com/casjay-templates) 
 [ ![@casjay-heroku](https://avatars.githubusercontent.com/u/62525368?s=64&v=4) ](https://github.com/casjay-heroku) 
 [ ![@casjay-base](https://avatars.githubusercontent.com/u/68616363?s=64&v=4) ](https://github.com/casjay-base) 
-[ ![@casjay-netlify](https://avatars.githubusercontent.com/u/68720283?s=64&v=4) ](https://github.com/casjay-netlify) 
+[ ![@casjay.prolify](https://avatars.githubusercontent.com/u/68720283?s=64&v=4) ](https://github.com/casjay.prolify) 
 [ ![@casjay-forks](https://avatars.githubusercontent.com/u/68832812?s=64&v=4) ](https://github.com/casjay-forks) 
 [ ![@casjay-surge-sh](https://avatars.githubusercontent.com/u/69099894?s=64&v=4) ](https://github.com/casjay-surge-sh) 
 [ ![@devenvmgr](https://avatars.githubusercontent.com/u/69414269?s=64&v=4) ](https://github.com/devenvmgr) 
