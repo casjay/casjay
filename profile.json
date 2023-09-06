@@ -1,14 +1,14 @@
 {
   "name": "Jason Hempstead",
-  "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 41 years have shaped me into.. \nMoving from town to town, state to state. ",
+  "bio": "Hey everybody My name is Jason Michael Hempstead and to round up what the past 42+ years have shaped me into.. \nMoving from town to town, state to state. ",
   "bio_full": "//github.com/casjay/casjay/raw/main/bio.text",
-  "email": ["jason@casjay.pro", "casjay@gmail.com"],
+  "email": ["jason@casjay.email", "casjay@gmail.com"],
   "homepage": "//casjaysdev.pro",
   "blog": "//malaks-us.github.io/jason/blog",
   "websites": [
     ["Personal", "//malaks-us.github.io/jason"],
     ["Business", "//casjaysdev.pro"],
-    ["Blog", "//casjay.info/blog"],
+    ["Blog", "//malaks-us.github.io/jason/blog"],
     ["Network", "//casjay.pro"],
     ["Security", "//hak.casjay.pro"]
   ],
@@ -17,7 +17,7 @@
     ["Fax", "(xXx) 520-8329"]
   ],
   "email_primary": [
-    ["Primary E-mail", "jason@casjay.pro", "Jason at casjay dot net"],
+    ["Primary E-mail", "jason@casjay.email", "Jason at casjay dot email"],
     ["Google E-mail", "Casjay@gmail.com", "casjay at gmail dot com"],
     ["Yahoo E-mail", "Casjay@yahoo.com", "casjay at yahoo dot com"],
     ["Outlook E-mail", "Casjay@outlook.com", "casjay at outlook dot com"],
@@ -27,9 +27,9 @@
     [
       "Site Admin E-mail",
       "administrator@casjay.pro",
-      "admin at casjay dot net"
+      "admin at casjay dot email"
     ],
-    ["Mental Health E-mail", "health@casjay.pro", "health at casjay dot net"]
+    ["Mental Health E-mail", "health@casjay.pro", "health at casjay dot pro"]
   ],
   "verify": [
     ["gpg", "//github.com/casjay/public/raw/main/jason.asc"],
@@ -56,7 +56,6 @@
     ["Discord", "//discord.gg/z2wS84v", "casjay"]
   ],
   "social": [
-    ["Mastodon.technology", "//mastodon.technology/@casjay"],
     ["Mastodon.social", "//mastodon.social/@casjay"],
     ["distrotoot", "//distrotoot.com/@casjay"],
     ["Boincstats", "//boincstats.com/en/page/profile/user/34665"],
