@@ -104,9 +104,9 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C232%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C232%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My GitHub Data** 
 
@@ -147,16 +147,16 @@ Sunday                   3044 commits        █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+fstab                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -176,7 +176,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2023 01:13:30 UTC
+ Last Updated on 06/11/2023 01:11:48 UTC
 <!--END_SECTION:waka-->  
 ---
 
