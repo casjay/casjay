@@ -104,6 +104,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C236%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
@@ -116,6 +118,45 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1551 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌆 Daytime                4926 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌃 Evening                5685 commits        ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌙 Night                  2320 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2125 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Tuesday                  1525 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                2173 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 1334 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Friday                   2430 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Saturday                 1853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Sunday                   3042 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -133,7 +174,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 01:09:23 UTC
+ Last Updated on 13/04/2024 00:58:37 UTC
 <!--END_SECTION:waka-->  
 ---
 
