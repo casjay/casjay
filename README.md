@@ -104,7 +104,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C236%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C238%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -147,16 +147,17 @@ Sunday                   3042 commits        █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-sh                       25 mins             █████████████████████████   100.00 % 
+conf                     1 hr 18 mins        ███████████████████░░░░░░   75.28 % 
+sh                       25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 
 🔥 Editors: 
-Vim                      25 mins             █████████████████████████   100.00 % 
+Vim                      1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          25 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -176,7 +177,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2024 01:14:38 UTC
+ Last Updated on 29/04/2024 01:10:49 UTC
 <!--END_SECTION:waka-->  
 ---
 
