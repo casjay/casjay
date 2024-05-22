@@ -106,11 +106,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C261%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,25 +147,16 @@ Sunday                   3096 commits        █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Bash                     2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-DNS Zone                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-conf                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-group                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 21 mins       ██████████████████░░░░░░░   70.75 % 
-Vim                      2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dns                      3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-Unknown Project          1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-casjay-release           1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-centos                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-scripts                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Shell** 
@@ -183,7 +176,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 01:11:58 UTC
+ Last Updated on 22/05/2024 01:13:00 UTC
 <!--END_SECTION:waka-->  
 ---
 
