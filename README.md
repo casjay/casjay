@@ -104,15 +104,15 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C261%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C270%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.0 kB Used in GitHub's Storage 
  > 
-> 🏆 501 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -147,16 +147,25 @@ Sunday                   3098 commits        █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 14 mins       █████████████████░░░░░░░░   69.89 % 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+PHP                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+conf                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 31 mins       ████████████████████████░   95.55 % 
+Vim                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scripts                  6 hrs 13 mins       █████████████████░░░░░░░░   69.75 % 
+dns                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+sql                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+casjay.in                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -176,7 +185,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 01:12:44 UTC
+ Last Updated on 25/05/2024 01:12:02 UTC
 <!--END_SECTION:waka-->  
 ---
 
