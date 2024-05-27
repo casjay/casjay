@@ -106,7 +106,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C270%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
@@ -185,7 +185,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 01:18:07 UTC
+ Last Updated on 27/05/2024 01:14:21 UTC
 <!--END_SECTION:waka-->  
 ---
 
