@@ -106,13 +106,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C290%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.0 kB Used in GitHub's Storage 
- > 
-> 🏆 890 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,7 +121,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌞 Morning                2058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 🌆 Daytime                5427 commits        █████████░░░░░░░░░░░░░░░░   34.85 % 
 🌃 Evening                5768 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
 🌙 Night                  2320 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
@@ -133,11 +131,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ```text
 Monday                   2125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 Tuesday                  1637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Wednesday                2666 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                2667 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 Thursday                 1414 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 Friday                   2503 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Saturday                 1875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   3352 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Sunday                   3352 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 ```
 
 
@@ -185,7 +183,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 01:14:11 UTC
+ Last Updated on 06/06/2024 01:14:24 UTC
 <!--END_SECTION:waka-->  
 ---
 
