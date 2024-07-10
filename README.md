@@ -104,7 +104,7 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C305%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C315%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -147,16 +147,25 @@ Sunday                   3838 commits        ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     4 hrs               ██████████░░░░░░░░░░░░░░░   41.47 % 
+Other                    3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
+conf                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Docker                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 32 mins       ██████████████████████░░░   88.38 % 
+Vim                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scripts                  2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+ifconfig                 2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+docker                   2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+nextcloud                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -176,7 +185,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 01:18:32 UTC
+ Last Updated on 10/07/2024 01:19:43 UTC
 <!--END_SECTION:waka-->  
 ---
 
