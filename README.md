@@ -104,13 +104,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.8 kB Used in GitHub's Storage 
  > 
-> 🏆 13,312 Contributions in the Year 2024
+> 🏆 13,931 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,10 +121,10 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    122 repos           ████████████████░░░░░░░░░   64.55 % 
-CSS                      38 repos            █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-HTML                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Shell                    123 repos           ████████████████░░░░░░░░░   65.43 % 
+CSS                      37 repos            █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+HTML                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
@@ -135,7 +135,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 01:34:01 UTC
+ Last Updated on 10/09/2024 01:31:37 UTC
 <!--END_SECTION:waka-->  
 ---
 
