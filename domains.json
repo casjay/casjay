@@ -1,6 +1,6 @@
 {
   "domains": [
-    "apmpproject.org",
+   "apmpproject.org",
     "casjay.cc",
     "casjay.coffee",
     "casjay.email",
@@ -13,9 +13,16 @@
     "casjay.work",
     "casjay.xyz",
     "casjaydns.com",
+    "casjaydns.fyi",
     "casjaysdev.pro",
     "csj.lol",
-    "sqldb.us",
-    "malaks.us"
+    "dockersrc.us",
+    "malaks.us",
+    "sqldb.us"
+  ]
+  "subDomains": [
+    "",
+    "",
+    ""
   ]
 }
