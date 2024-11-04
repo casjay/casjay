@@ -104,13 +104,11 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.1 kB Used in GitHub's Storage 
- > 
-> 🏆 22,711 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,7 +133,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 01:45:03 UTC
+ Last Updated on 04/11/2024 01:43:12 UTC
 <!--END_SECTION:waka-->  
 ---
 
