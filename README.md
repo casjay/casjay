@@ -112,6 +112,8 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 > 📦 190.7 kB Used in GitHub's Storage 
  > 
+> 🏆 1,936 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -174,7 +176,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 01:46:31 UTC
+ Last Updated on 19/04/2025 01:36:44 UTC
 <!--END_SECTION:waka-->  
 ---
 
