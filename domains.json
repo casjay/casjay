@@ -39,5 +39,32 @@
     "sqldb.us",
     "vpn2me.us"
   ],
-  "subDomains": [""]
+  "subDomains": [
+    "hivelocity.net:http://dns.casjaydns.com",
+    "hivelocity.net:http://code.casjay.dev",
+    "interserver.net:",
+    "interserver.net:",
+    "interserver.net:",
+    "interserver.net:",
+    "interserver.net:",
+    "interserver.net:",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
