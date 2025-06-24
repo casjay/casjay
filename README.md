@@ -106,13 +106,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C689%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.1 kB Used in GitHub's Storage 
  > 
-> 🏆 10,242 Contributions in the Year 2025
+> 🏆 10,246 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,21 +123,21 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7172 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌆 Daytime                9065 commits        ███████████░░░░░░░░░░░░░░   44.02 % 
+🌞 Morning                7172 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌆 Daytime                9065 commits        ███████████░░░░░░░░░░░░░░   44.01 % 
 🌃 Evening                3627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-🌙 Night                  728 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+🌙 Night                  732 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Monday                   2499 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 Tuesday                  3659 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 Wednesday                3345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 Thursday                 2791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 Friday                   3046 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 Saturday                 2104 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Sunday                   3152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Sunday                   3152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 
 
@@ -186,7 +186,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 00:40:37 UTC
+ Last Updated on 24/06/2025 00:37:12 UTC
 <!--END_SECTION:waka-->  
 ---
 
