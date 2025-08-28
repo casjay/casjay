@@ -106,13 +106,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C916%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.6 kB Used in GitHub's Storage 
  > 
-> 🏆 11,267 Contributions in the Year 2025
+> 🏆 11,342 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,49 +120,6 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7605 commits        █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌆 Daytime                8562 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
-🌃 Evening                3681 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌙 Night                  753 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  3913 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Wednesday                3068 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 3143 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   3192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 2046 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Sunday                   2890 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Other                    18 hrs 5 mins       █████████████████████████   99.49 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 8 mins       █████████████████████████   99.79 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-🐱‍💻 Projects: 
-scripts                  18 hrs 8 mins       █████████████████████████   99.79 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-💻 Operating System: 
-Linux                    18 hrs 10 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -180,7 +137,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 00:36:43 UTC
+ Last Updated on 28/08/2025 00:37:12 UTC
 <!--END_SECTION:waka-->  
 ---
 
