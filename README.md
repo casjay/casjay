@@ -106,13 +106,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C180%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 192.3 kB Used in GitHub's Storage 
  > 
-> 🏆 20,555 Contributions in the Year 2025
+> 🏆 20,560 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,16 +124,16 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 
 ```text
 🌞 Morning                8269 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌆 Daytime                11625 commits       ██████████░░░░░░░░░░░░░░░   40.59 % 
-🌃 Evening                6042 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌆 Daytime                11623 commits       ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌃 Evening                6043 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 🌙 Night                  2707 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2627 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Tuesday                  7064 commits        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Wednesday                4606 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Tuesday                  7062 commits        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Wednesday                4607 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Thursday                 3965 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 Friday                   4503 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 Saturday                 2720 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
@@ -185,7 +185,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2025 00:55:04 UTC
+ Last Updated on 14/11/2025 00:53:13 UTC
 <!--END_SECTION:waka-->  
 ---
 
