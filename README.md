@@ -104,15 +104,13 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
 ### 🔽 Full details below 🔽  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C308%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 192.9 kB Used in GitHub's Storage 
  > 
-> 🏆 529 Contributions in the Year 2026
+> 🏆 533 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,45 +118,6 @@ My [public gpg](https://github.com/casjay/public/raw/main/jason.asc) and
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10777 commits       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌆 Daytime                13912 commits       ██████████░░░░░░░░░░░░░░░   40.57 % 
-🌃 Evening                6789 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-🌙 Night                  2811 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3473 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Tuesday                  8343 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Wednesday                4738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday                 5053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Friday                   4744 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Saturday                 3696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Sunday                   4242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -176,7 +135,7 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/casjay/casjay/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 00:56:55 UTC
+ Last Updated on 03/01/2026 00:59:24 UTC
 <!--END_SECTION:waka-->  
 ---
 
